@@ -1,6 +1,7 @@
 ## Hi there ,welcome to my github profile👏
 
-![Bzkarim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzkarim250&show_icons=true)
+![Bzkarim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzkarim250&show_icons=true&theme=blue-green)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bzkarim250&show_icons=true&theme=blue-green)
 
 
 ## Languages and tools
