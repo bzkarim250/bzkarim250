@@ -1,4 +1,4 @@
-## Passionate Full-Stack developer
+## Passionate JavaScript developer
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bzkarim250&show_icons=true&theme=blue-green)
 
