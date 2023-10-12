@@ -1,9 +1,8 @@
 ## Passionate Full-Stack developer
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bzkarim250&show_icons=true&theme=blue-green" alt="GitHub Streak">
-  <a href="https://wakatime.com/@bzkarim">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bzkarim&theme=blue-green&custom_title=Wakatime%20&layout=compact&langs_count=4" alt="BZ's Wakatime Stats">
-  </a>
+
+ [![wakatime](https://wakatime.com/badge/user/29bb28b8-580b-4c5b-9fac-b0364d064129.svg)](https://wakatime.com/@29bb28b8-580b-4c5b-9fac-b0364d064129)
 
 ## Languages and tools
 
