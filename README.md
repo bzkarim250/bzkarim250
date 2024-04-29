@@ -1,5 +1,7 @@
 ## Software Engineer
  [![wakatime](https://wakatime.com/badge/user/29bb28b8-580b-4c5b-9fac-b0364d064129.svg)](https://wakatime.com/@29bb28b8-580b-4c5b-9fac-b0364d064129)
+
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbzkarim250&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bzkarim250&show_icons=true&theme=blue-green" alt="GitHub Streak">
 
